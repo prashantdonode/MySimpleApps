@@ -1,2 +1,3 @@
 c:\users\prashant\documents\visual studio 2015\Projects\Capplication\Capplication\bin\Debug\Capplication.exe.config
 D:\demo respos\firtapps\New folder\Capplication\Capplication\bin\Debug\Capplication.exe.config
+E:\Demo Repo\amitrepo\Capplication\Capplication\bin\Debug\Capplication.exe.config
